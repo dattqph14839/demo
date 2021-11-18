@@ -16,7 +16,7 @@ public class Main2Activity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent();
-                i.setAction("AAAA");
+                i.setAction("AAAaaaaaaaaabbbbb up.datecodeA");
                 sendBroadcast(i);
             }
         });
